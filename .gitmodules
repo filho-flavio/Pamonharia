@@ -1,0 +1,6 @@
+[submodule "pedido-pamonha"]
+	path = pedido-pamonha
+	url = https://github.com/filho-flavio/pedido-pamonha.git
+[submodule "pagamento-pamonha"]
+	path = pagamento-pamonha
+	url = https://github.com/filho-flavio/pagamento-pamonha.git
